@@ -5,3 +5,7 @@
 function first () {
     echo "Hello"
 }
+
+function second () {
+    echo "World"
+}
