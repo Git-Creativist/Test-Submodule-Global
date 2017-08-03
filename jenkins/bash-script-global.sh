@@ -9,3 +9,7 @@ function first () {
 function second () {
     echo "World"
 }
+
+function third () {
+    echo "!"
+}
