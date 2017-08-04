@@ -13,3 +13,7 @@ function second () {
 function third () {
     echo "!"
 }
+
+function fourth () {
+    echo " And so on."
+}
